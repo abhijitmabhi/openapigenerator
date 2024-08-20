@@ -1,0 +1,10 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: openapi-generator
+
+springdoc:
+  api-docs:
+    version: openapi_3_1
